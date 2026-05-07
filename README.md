@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Saurabh Singh 👋
 
-<!--
-**Sourabh7singh/Sourabh7singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer | Python & Next.js Developer
 
-Here are some ideas to get you started:
+- Building scalable web applications using Next.js, Prisma, MongoDB
+- Working with Socket.io, Redis, Authentication Systems
+- Interested in AI Assistants, RAG, and Real-Time Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Frontend: React.js, Next.js, Tailwind CSS
+- Backend: Node.js, Express.js, Django
+- Database: MongoDB, Prisma, MySQL
+- Tools: Git, Redis, Socket.io
+
+## Featured Projects
+
+### Token Management System
+Real-time token tracking system for medical institutions using Socket.io + Redis.
+
+### AI Virtual Assistant
+Voice-enabled AI assistant with weather, stocks, RAG, and task automation.
+
+### Complaint Search System
+Semantic complaint search using TF-IDF + Vector Database.

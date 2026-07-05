@@ -159,9 +159,9 @@ Currently working at **Befisc**, where I build enterprise-grade backend systems 
 
 ---
 
-# 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
-![](https://github-profile-trophy.vercel.app/?username=Sourabh7singh\&theme=tokyonight\&no-frame=true\&row=1\&column=6)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sourabh7singh&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
